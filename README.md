@@ -6,3 +6,5 @@ Layout is responsive, with "hamburger" navigation menu and jQuery onclick event 
 Project was used to work with and practice CSS animations and jQuery.
 #
 CSS files, jQuery and assets included.
+#
+Download the ZIP file to is 'index.html' in action.
