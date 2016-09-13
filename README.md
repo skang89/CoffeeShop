@@ -7,4 +7,4 @@ Project was used to work with and practice CSS animations and jQuery.
 #
 CSS files, jQuery and assets included.
 #
-Download the ZIP file to is 'index.html' in action.
+Download the ZIP file to see 'index.html' in action
